@@ -60,9 +60,9 @@
 #include <Ticker.h>
 
 const String host = "ESP32";
-const String auth = "5311d22a9226";
-const String ssid = "不要联网!不要联网!!";
-const String pswd = "87283325wangyangli";
+const String auth = "";
+const String ssid = "";
+const String pswd = "";
 
 BlinkerNumber HUMI("humi");
 BlinkerNumber TEMP("temp");
